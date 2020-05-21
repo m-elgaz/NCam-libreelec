@@ -6,3 +6,5 @@ bin file url -
 /storage/.kodi/addons/service.softcam.ncam/bin/
 #
 Http port : 8185
+#
+Http user : root
